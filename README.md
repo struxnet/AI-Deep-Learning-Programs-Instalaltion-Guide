@@ -1,6 +1,6 @@
 # AI-Deep-Learning-Programs-Instalaltion-Guide
 
-Guide for Installing AI & Deep Learning Programs (Linux Ubuntu 16.04 – 17)
+Guide for Installing AI & Deep Learning Programs (Linux Ubuntu 16.04 – 17). We will be updating it as we come across installing other programs as well.
 
 List of Programs we will be installing in this guide.
 1.	Nvidia Drivers (Latest Version from Nvidia Website)
